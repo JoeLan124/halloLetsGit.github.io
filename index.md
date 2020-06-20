@@ -26,3 +26,4 @@ Homer
 Marge
 >Ich bin so klug. Ich bin so klug. K_L_U_G.
 
+<img src="https://de.wikipedia.org/wiki/Datei:Logo_The_Simpsons.svg"/>
