@@ -26,4 +26,4 @@ Homer
 Marge
 >Ich bin so klug. Ich bin so klug. K_L_U_G.
 
-<img src="https://www.uni-duesseldorf.de/home/uploads/tx_igkeyimages/HHU_Keyimage_Januar_2020_hhu_16-6-14_IM_0242_5351_Ausschnitted.png />
+<img src="https://chip-kiosk.de/out/pictures/generated/product/1/320_400_100/magpi-82832-03-2020-2020-05-12.jpg"
