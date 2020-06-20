@@ -1,1 +1,8 @@
-# mein Titel
+# Die Simpsons
+
+Die Simpsons (Originaltitel: The Simpsons) ist eine von Matt Groening 
+geschaffene, vielfach ausgezeichnete US-amerikanische Zeichentrickserie 
+des Senders Fox, die seit 1989 produziert wird. Sie ist die am längsten 
+laufende US-Zeichentrick- und Primetimeserie. Bisher entstanden in 31 
+Staffeln 684 Episoden, am 27. Juli 2007 erschien außerdem der Kinofilm.
+Ref. : Wikipedia
