@@ -19,3 +19,10 @@ Ref. : Wikipedia
 
 * Maggy
 
+## Zitate aus der Serie
+
+Homer
+>Brot für die Wert. Geht doch zum Bäcker
+Marge
+>Ich bin so klug. Ich bin so klug. K_L_U_G.
+
