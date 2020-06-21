@@ -21,8 +21,6 @@ Ref. : Wikipedia
 
 ## Zitate aus der Serie
 
-<img src="https://chip-kiosk.de/out/pictures/generated/product/1/320_400_100/magpi-82832-03-2020-2020-05-12.jpg" />
-
 Homer
 >Brot für die Wert. Geht doch zum Bäcker
 
